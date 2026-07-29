@@ -1,0 +1,11 @@
+# ARD Catalog Lab
+
+ARD Catalog Lab is a free browser-based validator and generator for Agentic Resource Discovery ai-catalog.json manifests.
+
+## Pages
+- / — Validate and generate an ARD catalog
+- /ai-catalog-json-generator — Create a minimal manifest
+- /ai-catalog-json-validator — Check identity, artifact envelopes, and search metadata
+- /ard-publish-checklist — Prepare the well-known endpoint
+
+The tool follows the ARD v0.9 draft and AI Catalog specVersion 1.0 examples available in July 2026. The specification may evolve. Input is processed locally.

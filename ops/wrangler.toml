@@ -1,0 +1,7 @@
+name = "ard-catalog-lab-domain"
+main = "worker-proxy.js"
+compatibility_date = "2026-07-29"
+
+[[routes]]
+pattern = "ard.guagua-alvin.top"
+custom_domain = true
